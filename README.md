@@ -1,2 +1,1 @@
-# tech_notes
-Linux, DevOps, Python Notes
+# Linux, DevOps, Python Notes
